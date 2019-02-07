@@ -9,4 +9,12 @@
             <li>Definisi dan Akronim (Singkatan)</li>
         </ol>
     </li>
+    <li>Paket pekerjaan, jadwal, dan budget
+        <ol>
+            <li>Paket pekerjaan</li>
+            <li>Ketergantungan/keterkaitan</li>
+            <li>Kebutuhan-kebutuhan sumber daya</li>
+            <li>Alokasi budget dan sumber daya</li>
+            <li>Jadwal</li>
+        </ol>
 </ol>
