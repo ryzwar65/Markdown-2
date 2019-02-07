@@ -1,7 +1,7 @@
 <i><b>Software Project Management Plan (SPMP)</b></i>
-<ol>
+<ol class=1>
     <li>Pendahuluan
-        <ol>
+        <ol class=1>
             <li>Gambaran Proyek</li>
             <li>Dokumen-Dokumen dalam Proyek</li>
             <li>Evolusi SPMP</li>
