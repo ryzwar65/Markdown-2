@@ -1,12 +1,7 @@
-<i><b>Software Project Management Plan (SPMP)</b></i>
-<ol>
-    <li>Pendahuluan
-        <ol>
-            <li>Gambaran Proyek</li>
-            <li>Dokumen-Dokumen dalam Proyek</li>
-            <li>Evolusi SPMP</li>
-            <li>Material acuan</li>
-            <li>Definisi dan Akronim (Singkatan)</li>
-        </ol>
-    </li>
-</ol>
+*__Software Projects Management Plan (SPMP)__*
+1. Pendahuluan
+..1.1 Gambaran Proyek 
+..1.2 Dokumen-dokumen dalam Proyek
+..1.3 Evolusi SPMP
+..1.4 Material Acuan
+..1.5 Definisi Akronim (Singkatan)
