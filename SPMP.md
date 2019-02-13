@@ -107,13 +107,41 @@
             Adapun aplikasi yang sejenis aplikasi manajemen berbasis web dan mobile. <br>
         b. Keterkaitan dan Batasan  <br>
             Dalam projek yang kami buat adapun beberapa software desktop yang mendukungnya, seperti xampp sebagai perantara mysql database. Namun ada batasannya, yaitu tidak bisa digunakan secara online. <br>
-    3.3 Manajemen resiko
-	3.4 Mekanisme monitoring dan kontroling
-	3.5 Perencanaan staf
-4. Proses teknis<br>
-	4.1 Metoda, tool, dan teknik<br>
-	4.2 Dokumentasi perangkat lunak<br>
-	4.3 Fungsi-fungsi pendukung proyek<br>
+    3.3 Manajemen resiko<br>
+
+|Resiko                                |Solusi                         |
+|-------------------------------|-----------------------------|
+|
+ Kerusakan Teknologi dan bahan produk |Mengganti dengan teknologi yang baru dengan sistem yang sama|
+|Estimasi biaya dan waktu yang tidak realistis|Membuat berapa biaya estimasi, desain untuk kerja, merekan dan menganalisa project yang akan dibuat|
+|Pengembangannya terlalu sulit secara teknis|Analisis teknis, analisa biaya manfaat, analisa software, simulasi software|
+
+    3.4 Mekanisme monitoring dan kontroling<br>
+ -  Pertemuan proyek II seminggu 3 kali
+ - Repository bersama di Github
+
+    3.5 Perencanaan staf<br>
+       
+     1.  Priliyandi (Project Manager)
+     2.  Riyanwar Setiadi (Programmer)
+     3. Setyo Abiansah (Database Administrator)
+     4.  Uum Khumaeroh (Analisis Desain))
+
+ 4.  Proses teknis<br>
+    4.1 Metoda, tool, dan teknik<br>
+        Proyek II ini akan menggunakan tools, metoda, dan teknologi yaitu :
+        
+
+            1. Android Studio
+            2. Laravel
+            3. laragon
+            4. SubimeText3
+            5. Bootstrap
+
+    4.2 Dokumentasi perangkat lunak<br>
+        Dokumentasi peragkat lunak yang digunakan berdasarkan standar internasional IEEE, karena telah menyediakan kerangka kerja yang menghubungkan seluruh spektrum siklus hidup perangkat lunak
+    4.3 Fungsi-fungsi pendukung proyek<br>
+        Semua pendukung proyek akan selesai secara bertahap<br>
 5. Paket pekerjaan, jadwal, dan budget<br>
 	5.1 Paket pekerjaan<br>
 	5.2 Ketergantungan/keterkaitan<br>
