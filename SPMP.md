@@ -1,20 +1,70 @@
 *__Software Projects Management Plan (SPMP)__*
 1. Pendahuluan<br>
     1.1 Gambaran Proyek <br>
+        <p><pre>Proyek yang sedang kami buat adalah Pemesanan Produk Konveksi.permasalahan yang terjadi saat melakukan pemesanan   produk konveksi secara manual ialah 
+        kekecewaan yang di rasakan oleh konsumen karena pada pihak produsen tidak sesuai waktu pemesanannya, dan desain yang di serahkan juga terkadang masih manual yaitu di cetak atau melaui flashdisk di copykan 
+        pada laptop atau PC si konveksi dan itu mengakibatkan ini desain yang milik siapa, sehingga tidak terstruktur
+        dengan Membangun aplikasi Pemensanan Produk Konveksi konsumen akan tahu info harga dan info tenggang waktu sebelum melakukan pemesanan
+        Tentunya dalam pembuatan Aplikasi Pemesanan Produk Konveksi yang akan Kami buat butuh sebuah tim yang solid, tim yang terdiri dari Project Manager, Programmer, Data Analisis,Database Administrator.
+        kami bermaksud membagi beberapa tugas sesuai kriteria kemampuan masing-masing, yang nantinya
+        satu sama lain diharapkan dapat bekerja sama dan melengkapi satu sama lain,
+        sehingga dapat membangun sistem yang baik sesuai yang produsen butuhkan
+</pre></p>
+
     1.2 Dokumen-dokumen dalam Proyek <br>
+        <p><pre>Saat mengerjakan projek ini, pencatatan kegiatan yang telah dilakukan ditulis
+        didalam log book kelompok, anggota yang telah mengerjakan tugas sesuai projek
+        kegiatannya dicatat dalam log book, selain log book dokumen yang berkaitan
+        dengan projek ini meliputi requirtments, penjadwalan, pembagian tugas, dan
+        referensi-referensi yang berkaitan dengan pembuatan projek kami. </pre></p> 
+    <p><pre>Selain Log book ada juga Proposal serta laporan, 
+    Proposal mengenai daftar yang di butuhkan dalam penggarapan
+     project serta laporan hasil project yang telah dibuat</pre></p> 
+     
     1.3 Evolusi SPMP <br>
+        <p><pre>
+                Dokumen ini bersifat freeware, jadi siapa saja boleh untuk memanfaatkan
+            dokumen ini untuk hal yang positif. Tentu ada hal-hal yang tidak boleh dilakukan
+            dalam pemanfaatan dokumen ini, seperti menjualbelikan dokumen ini secara ilegal,
+            atapun mengubah dokumen tanpa dasar yang jelas.
+        </pre><p>
     1.4 Material Acuan <br>
+    <p><pre>Materi yang menjadi acuan dalam pembuatan projek ini menggunakan standar
+        IEEE, karena menyediakan kerangka kerja yang menggabungkan seluruh spektrum
+        proses siklus hidup perangkat lunak. Dan juga standar IEEE untuk membentuk
+        model yang diakui secara internasional dari kehidupan perangkat lunak umum,
+        siklus proses yang dapat direferensikan oleh industri perangkat lunak diseluruh
+        dunia, untuk mempromosikan pemahaman diantara pihak bisnis dengan aplikasi
+        umum serta mengakui proses, kegiatan dan tugas.
+        IEEE adalah sebuah organisasi profesi nirlaba yang terdiri dari banyak ahli
+        dibidang teknik yang mempromosikan pengembangan standar-standar dan
+        bertindak sebagai pihak yang mempercepat teknologi- teknologi baru dalam semua
+        aspek dalam industry dan rekayasa (engineering), yang mencakup telekomunikasi,
+        jaringan komputer, kelistrikan, antariksa, dan elektronika. Tujuan inti IEEE adalah
+        mendorong inovasi teknologi dan kesempurnaan untuk kepentingan
+        kemanusiaan.Visi IEEE adalah akan menjadi penting untuk masyarakat teknis
+        global dan professional teknis dimana-mana dan dikenal secara universal untuk
+        kontribusi teknologi dan teknis yang professional dalam meningkatkan kondisi
+        perkembangan global. Standar dalam IEEE adalah mengatur fungsi, kemampuan
+        dan interoperabilitas dari berbagai macam produk dan layanan yang mengubah cara
+        orang hidup, bekerja dan berkomunikasi.
+        </pre></p>
     1.5 Definisi Akronim (Singkatan) <br>
+
 2. Organisasi Proyek<br>
    2.1 Model proses<br>
-        Kami menggunakan model Incremental, dalam model Incremental ini proses pengerjaan perangkat lunak akan dilakukan perbagian sehingga bagian<br>
-        selanjutnya akan dikerjakan setelah bagian awal telah selesai dan selanjutnya sampai menghasilkan perangkat lunak yang lengkap dengan<br>semua fungsi yang diperlukan dan pengerjaan perangkat lunak berakhir. Sebelum pengerjaan perangkat lunak akan dilakukan perancangan <br>arsitektur software sebagai kerangka dalam pengerjaan perbagian.<br>
-        a. Kelebihan Model Incremental<br>
-        - Resiko yang rendah pada pengembangan sistem.<br>
-        - Mengutamakan fungsi-fungsi pada sistem perangkat lunak sehingga kemudahan pemakaian sistem yang paling di utamakan.<br>
-        - Tahap awal adalan dasar dari pembuatan tahap berikutnya (dikerjakan secara terurut).<br>
-        - Cocok digunakan bila pembuat software tidak banyak/kekurangan pembuat.<br>
-        - Mampu mengakomodasi perubahan kebutuhan customer.<br> 
+        <p><pre>Kami menggunakan model Incremental, dalam model Incremental ini proses pengerjaan perangkat lunak akan dilakukan perbagian sehingga bagian
+        selanjutnya akan dikerjakan setelah bagian awal telah selesai dan selanjutnya sampai menghasilkan perangkat lunak yang lengkap dengan 
+        semua fungsi yang diperlukan dan pengerjaan perangkat lunak berakhir. Sebelum pengerjaan perangkat lunak akan dilakukan perancangan arsitektur software sebagai kerangka dalam pengerjaan perbagian.
+        <ol type="A">
+          <li></li>  
+        </ol>
+        Kelebihan Model Incremental
+        - Resiko yang rendah pada pengembangan sistem.
+        - Mengutamakan fungsi-fungsi pada sistem perangkat lunak sehingga kemudahan pemakaian sistem yang paling di utamakan.
+        - Tahap awal adalan dasar dari pembuatan tahap berikutnya (dikerjakan secara terurut).
+        - Cocok digunakan bila pembuat software tidak banyak/kekurangan pembuat.
+        - Mampu mengakomodasi perubahan kebutuhan customer.
         - Mengurangi trauma karena perubahan sistem. Klien dibiasakan perlahan-lahan menggunakan produknya bagian per bagian.<br>
         - Memaksimalkan pengembalian modal investasi konsumen.<br>
         b. Kekurangan Model Incremental<br>
