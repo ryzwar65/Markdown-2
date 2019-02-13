@@ -160,10 +160,13 @@
     3. Android Studio   = Rp -<br>
     4. Framework        = Rp -<br>
 	5.5 Jadwal<br>
+<<<<<<< HEAD
     1. Persiapan 6-12 Februari<br>
     2. Requiment 14-29 Februari<br>
     3. Analis 1-14 Maret<br>
     4. Implementasi 15-30 Maret<br>
     5. Testing dan Pemeliharaan 1-10 April<br>
     6. Evaluasi 11-20 April<br>
+=======
+>>>>>>> 327620f0d805144dd778d19a69c38291d5e887fc
 
