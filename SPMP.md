@@ -144,8 +144,57 @@
         Semua pendukung proyek akan selesai secara bertahap<br>
 5. Paket pekerjaan, jadwal, dan budget<br>
 	5.1 Paket pekerjaan<br>
+    1. Riyanwar Setiadi sebagai progammer, memprogram aplikasi yang akan di buat  menjadi yang lebih baik lagi karena dia bisa membuat suatu aplikasi hanya dengan menjentikan jarinya saja. wow sekali ini<br>
+    2. Priliyandi sebagai project manager, dia yang selalu memarahi anggotanya karena anggota nya selalu melebihi ekspetasinya, waw sekali kawan-kawan.<br>
+    3. Setyo Abiansah sebagai database administrastor, serius tapi santai dalam mengerjakan tugas nya.<br>
+    4. Uum Kumairoh sebagai analis, dia itu selalu ngomel-ngomel ngga jelas, marah-marah ngga jelas mungkin karena dia itu perempuan PMS<br>
 	5.2 Ketergantungan/keterkaitan<br>
+    1. Programmer berkaitan dengan Database administrator karena programmer mengambil datanya itu dari database yang sudah di buat oleh database administrator.<br>
+    2. Programmer dengan analis, setelah program telah selesai dibuat oleh programmer selanjutnya akan di analisis oleh seorang analis yang nanti nya akan di koreksi, dan kalau ada kesalahan atau ada fitur yang belum memenuhi akan di tegur.<br>
+    3. Project Manager dengan anggotanya, anggota akan bekergantungan dengan project manager nya karena project manager lah yang akan mengarahkan apa-apa yang harus di lakukan oleh anggotanya.<br>
 	5.3 Kebutuhan-kebutuhan sumber daya<br>
+    1. Personal : - Priliyandi aka Project Manager<br>
+              - Riyanwar Setiadi aka Progammer <br>
+              - Setyo Abiansah aka Database administrator <br>
+              - Uum Kumaeroh aka Analis <br>
+
+    2. Biaya    : - Transportasi   = Rp 1.000.000 <br>
+                  - Makan & Minum  = Rp 5.000.000 <br>
+                  - Tempat tinggal = Rp 10.000.000 <br>
+
+    3. Perangkat Keras : - Laptop<br>
+                         - Mouse<br>     
+                         - Keyboard<br>
+                         - Monitor<br>
+                         - Printer<br>
+                         - Kabel data USB<br>
+
+    4. Perangkat Lunak : - Android Studio<br>
+                     - PHP Myadmin<br>
+                     - Framework Laravel<br>
+
 	5.4 Alokasi budget dan sumber daya<br>
+    Biaya Hardware :<br>
+    1. 1 Komputer = Rp 7.000.000<br>
+    2. 1 Mouse    = Rp 30.000<br>
+    3. 1 Keyboard = Rp 50.000<br>
+    4. Laptop     = Rp 4.500.000<br>
+    5. Kabel USB  = Rp 25.000<br>
+    6. Monitor    = Rp 1.400.000<br>
+    7. Printer    = Rp 1.500.000<br>
+    Biaya SOftware : <br>
+    1. Win 10           = Rp 1.500.000<br>
+    2. Xampp            = Rp 450.000<br>
+    3. Android Studio   = Rp -<br>
+    4. Framework        = Rp -<br>
 	5.5 Jadwal<br>
+<<<<<<< HEAD
+    1. Persiapan 6-12 Februari<br>
+    2. Requiment 14-29 Februari<br>
+    3. Analis 1-14 Maret<br>
+    4. Implementasi 15-30 Maret<br>
+    5. Testing dan Pemeliharaan 1-10 April<br>
+    6. Evaluasi 11-20 April<br>
+=======
+>>>>>>> 327620f0d805144dd778d19a69c38291d5e887fc
 
