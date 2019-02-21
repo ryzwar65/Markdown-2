@@ -110,3 +110,16 @@
 <ol>
 	Sistem harus di perbarui agar lebih mudah di gunakan oleh user.<br>
 </ol>
+**3.** **Kebutuhan lain yang spesifik**<br>
+	<ol> Kebutuhan fungsional adalah kebutuhan yang harus dipenuhi agar<br>
+	Suatu sistem dapat berjalan atau dapat dikatakan kebutuhan tambahan <br>
+	yang memiliki input, proses, dan output. Kebutuhan fungsional yang harus<br>
+	ada dalam sistem yang akan di kembangkan ini adalah sebagai berikut:<br>
+	1. User Firendly <br>
+	2. Efesiensi penggunaan</ol>
+**4. ** **Informasi Pendukung**<br>
+	<ol>
+		1. Informasi permasalahan yang sedang di alami<br>
+		2. Informasi Perusahaan<br>
+		3. Informasi sistem yang ada di perusahaan yang terkait dengan permasalahan yang diambil<br>
+	</ol>
