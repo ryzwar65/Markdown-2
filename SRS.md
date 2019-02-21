@@ -64,3 +64,49 @@
 
 **2.1.5** **Antarmuka komunikasi**<br> 
 <ol>Yang dibutuhkan hanya sebuah android dan pc yang dapat terhubung ke internet.</ol>
+
+**2.1.6** **Batasan-batasan memori**<br>
+<ol>
+	Perangkat lunak hanya dijalankan di Windows.<br>
+	Waktu pengembangan perangkat lunkak yang singkat membuat adanya kemungkinan tidak semua fungsi yang ada dapat berjalan.<br>
+	Pengembangan perangkat lunak tidak akan merubah file-file ataupun database yang ada pada saat ini tanpa adanya user.<br>
+</ol>
+
+**2.1.7** **Operasi-operasi**<br>
+<ol>
+	Perangkat lunak dapat dijalankan di PC ataupun laptop manapun yang spesifikasi nya memadai.<br>
+</ol>
+
+**2.1.8** **Kebutuhan-kebutuhan dalam tahapan adaptasi**<br>
+<ol>
+	Mengenal tim lebih dekat dengan cara menjalin komunikasi dengan baik.<br>
+	Sopan terhadap sesama teman tim.<br>
+</ol>
+
+**2.2** **Fungsi-fungsi produk**<br>
+<ol>
+	Fungsi dari Aplikasi Konveksi ini berdasarkan pengguna sistem ini adalah sebagai berikut : <br>
+	1. Membantu user dalam membuat atau menentukan sketsa atau prototype barang yang akan di buat oleh produsen.<br>
+	2. Program ini bisa membantu admin dalam mengelola data yang telah di inputkan oleh pelanggan atau user.<br>
+</ol>
+
+**2.3** **Karakteristik pengguna**<br>
+<ol>
+	Karakteristik pengguna dari perangkat lunak ini adalah pengguna langsung berinteraksi dengan sistem tanpa harus dihubungkan dengan hak akses tertentu.<br>
+</ol>
+
+**2.4** **Batasan-batasan**<br>
+<ol>
+	1. Perangkat lunak untuk user hanya dijalankan di Mobile.<br>
+	2. Pengembangan perangkat lunak tidak akan merubah file-file ataupun database yang ada.<br>
+</ol>
+
+**2.5** **Asumsi-asumsi dan ketergantungan / keterkaitan**<br>
+<ol>
+	Maksimal penginputan data atau masukkan nama pada aplikasi ini adalah 80, lebih dari itu program akan error.<br>
+</ol>
+
+**2.6** **Kebutuhan-kebutuhan penyeimbang**<br>
+<ol>
+	Sistem harus di perbarui agar lebih mudah di gunakan oleh user.<br>
+</ol>
