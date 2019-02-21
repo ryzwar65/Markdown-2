@@ -121,7 +121,7 @@
 	1. User Firendly <br>
 	2. Efesiensi penggunaan</ol>
 
-**4. ** **Informasi Pendukung**<br>
+**4.** **Informasi Pendukung**<br>
 <ol>
 		1. Informasi permasalahan yang sedang di alami<br>
 		2. Informasi Perusahaan<br>
