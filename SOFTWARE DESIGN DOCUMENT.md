@@ -14,3 +14,225 @@ User  Untuk pengguna system  </ol>
 **2** **Referensi** 
 <ol>a. Modul KULIAH RPL 7 DOKUMEN SDD <br>
 b. Contoh Software Design Document (SDD) Moch. Bambang Sulistio </ol>
+
+
+***3.*** ***Deskripsi Dekomposisi***  <br>
+**3.1** **Dekomposisi Modul** <br> 
+<ol>Kebutuhan fungsional (Functional Requirements) ini adalah kebutuhan utama 
+yang diharapkan dari sistem ini, yang terkait langsung dengan sistem ini.
+Kebutuhan fungsional dari sistem ini adalah sebagai berikut: 
+
+ 1. Pencatatan Hak Akses 
+ 2. Pencatatan Nama aplikasi , Nama Kategori dan Nama Client 
+ 3. Pencatatan Target Waktu , Jumlah Orang dan Biaya Aplikasi
+
+<ol> Spesifikasi yang diharapkan pada Pencatatan Hak Akses: 
+ Membedakan antara user dan admin dalam hak ases 
+ Sistem dapat memproses secara otomatis jika kita terdaftar dalam admin 
+memiliki hak ases penuh dan sebaliknya juka terdaftar dalam user tidak 
+memiliki hak ases penuh 
+
+<ol>Spesifikasi yang diharapkan pada Pencatatan Nama aplikasi, Nama Kategori dan Nama  Client : 
+
+ - Mencatat nama aplikasi apa yang akna di buat dalam sebuah project
+ - Mencatat nama-nama kategori apa yang akan di buat di sebuah project
+ - Mencatat nama client yang mau di buat kan sebuah project 
+
+<ol>Spesifikasi yang diharapkan pada Pencatatan Target Waktu , Jumlah Orang dan 
+Biaya Aplikasi : 
+
+ - Sistem dapat memproses secara otomatis target waktu aplikasi yang   
+   akan di  buat dalam sebuah project   
+ - Sistem dapat memproses secara otomatis jumlah orang dalam sebuah project 
+ - Sistem dapat memproses secara otomatis biaya dalam sebuah aplikasi yang  akan di buat
+
+**3.2** **Dekomposisi Proses Konkuren** <br>
+<ol>Konkurensi adalah proses-proses (lebih dari satu proses) yang terjadi pada saat 
+bersamaan. Konkurensi merupakan landasan umum perancangan sistem operasi. 
+Proses-proses disebut konkuren jika proses-proses berada pada saat yang sama. 
+Pada proses-proses konkuren yang berinteraksi mempunyai beberapa masalah yang harus diselesaikan: </ol>
+ 
+ 1. List item
+ 2. Mutual Exclusion
+ 3. Sinkronisasi
+ 4. Deadlock
+ 5. Startvation
+
+<ol>Pada sistem dengan banyak proses (kongkuren), terdapat 2 katagori interaksi, 
+yaitu: 
+
+ - Proses-proses Saling Tidak Peduli (Independen). 
+Proses-proses ini tidak dimaksudkan untuk bekerja untukmencapai tujuan 
+tertentu. Pada multiprogramming dengan proses-proses independen, dapat 
+berupa batch atau sesi interaktif, atau campuran keduanya. 
+ - Proses-proses Saling Mempedulikan Secara Tidak Langsung. 
+Proses-proses tidak perlu saling mempedulikan identitas proses-proses lain, 
+tapi sama-sama mengakses objek tertentu, seperti buffer masukan/keluaran. 
+Proses-proses itu perlu bekerja sama (cooperation) dalam memakai bersama 
+objek tertentu.  
+ - Proses-proses konkuren mengharuskan beberapa hal yang harus ditangani, 
+antara lain: 
+<ol>a. Sistem operasi harus mengetahui proses-proses yang aktif <br>
+b. Sistem operasi harus mengalokasikan dan mendealokasikan beragam 
+sumber daya untuk tiap proses aktif. Sumber daya yang harus dikelola, 
+antara lain: <br>
+ - Waktu pemroses.<br>
+ - Memori <br>
+ - Berkas-berkas <br>
+ - Perangkat I/O <br>
+c. Sistem operasi harus memproteksi data dan sumber daya fisik masingmasing proses dari gangguan proses-proses lain. <br>
+d. Hasil-hasil proses harus independen terhadap kecepatan relatif prosesproses lain dimana eksekusi dilakukan. <br>
+
+**3.3** **Dekomposisi Data** <br>
+<ol>Bagian ini akan menjelaskan struktur data. Table yang terbentuk ada 2 (Dua) 
+dengan nama masing masing tablenya adalah sebagai berikut : <br>
+
+ - Tabel karyawan 
+ -  Tabel hitung_cost 
+Penjelasan fungsi dari masing masing tabel akan dijelaskan pada bagian berikut 
+ini : <br>
+Tabel admin, digunakan untuk menyimpan informasi Admin, dimana Admin ini 
+dapat mengolah sebuah aplikasi dengan penuh seperti meng edit, simpan, hapus dan update</ol>
+
+<table border="1">
+    <tr>
+        <td>Nama Field</td>
+        <td>Tipe</td>
+        <td>Keterangan untuk field</td>
+    </tr>
+    <tr>
+        <td>No</td>
+        <td>Int(20)</td>
+        <td> Untuk menyimpan no urut</td>
+    </tr>
+    <tr>
+        <td> Nama </td>
+        <td> Varchar(50)</td>
+        <td> Untuk menyimpan Nama dari admin</td>
+    </tr>
+    <tr>
+        <td> Id</td>
+        <td> int(50)</td>
+        <td> Untuk menyimpan kode admin</td>
+    </tr>
+    <tr>
+        <td> password</td>
+        <td> varchar(50)</td>
+        <td> Untuk menyimpan password admin</td>
+    </tr>
+    <tr>
+        <td> contact_person</td>
+        <td> int(50)</td>
+        <td> Nomor telepon yang dapat dihubungi</td>
+    </tr>
+    <tr>
+        <td> Kategori</td>
+        <td> varchar(50)</td>
+        <td> Untuk menyimpan kategori project</td>
+    </tr>
+    <tr>
+        <td> Kemampuan</td>
+        <td> varhar(50)</td>
+        <td> Untuk menyimpan kemampuan yang mengerjakan project</td>
+    </tr>
+    <tr>
+        <td> Email</td>
+        <td> char(50)</td>
+        <td> Untuk menyimpan email admin</td>
+    </tr>
+    <tr>
+        <td> Alamat</td>
+        <td> varchar(50)</td>
+        <td> Untuk menyimpan alamat admin</td>
+    </tr>
+    <tr>
+        <td> hak_akses</td>
+        <td> varchar(50)</td>
+        <td> Untuk menyimpan hak akses user atau admin</td>
+    </tr>
+</table>
+
+<ol>Tabel hitung, digunakan untuk menyimpan hasil efroth, durasi waktu, jumlah orang dan gaji setiap karyawan yang bekerja dalam sebuah project aplikasi. <br>
+ 
+ <table border="1">
+    <tr>
+        <td>Nama Field</td>
+        <td>Tipe</td>
+        <td>Keterangan untuk field</td>
+    </tr>
+    <tr>
+        <td>No</td>
+        <td>Int(20)</td>
+        <td> Untuk menyimpan no urut</td>
+    </tr>
+    <tr>
+        <td> nama_aplikasi </td>
+        <td> Varchar(50)</td>
+        <td> Nama aplikasi apa yang mau dibuat</td>
+    </tr>
+    <tr>
+        <td> Kategori</td>
+        <td> varchar(50)</td>
+        <td> Untuk menyimpan kategori project</td>
+    </tr>
+        <tr>
+        <td> nama_client</td>
+        <td> varchar(50)</td>
+        <td> Untuk menyimpan nama client</td>
+    </tr>
+        <tr>
+        <td> Untuk</td>
+        <td> varchar(50)</td>
+        <td> Untuk menyimpan kearah mana aplikasi ini dibuat</td>
+    </tr>
+    <tr>
+        <td> contact_person</td>
+        <td> int(50)</td>
+        <td> Nomor telepon yang dapat dihubungi</td>
+    </tr>
+    <tr>
+        <td> Email</td>
+        <td> char(50)</td>
+        <td> Untuk menyimpan email admin</td>
+    </tr>
+    <tr>
+        <td> Halaman</td>
+        <td> int(50)</td>
+        <td> Untuk menyimpan nilai halaman</td>
+    </tr>
+    <tr>
+        <td> loc_halaman</td>
+        <td> int(50)</td>
+        <td> Untuk menyimpan nilai loc halaman</td>
+    </tr>
+        <tr>
+        <td> Komponen</td>
+        <td> int(50)</td>
+        <td> Untuk menyimpan nilai komponen</td>
+    </tr>
+     <tr>
+        <td> Efroth</td>
+        <td> int(50)</td>
+        <td> Untuk menyimpan nilai eforth</td>
+    </tr>
+     <tr>
+        <td> loc_total</td>
+        <td> int(50)</td>
+        <td> Untuk menyimpan nilai loc_total</td>
+    </tr>
+     <tr>
+        <td> target_waktu</td>
+        <td> int(50)</td>
+        <td> Untuk menyimpan target waktu</td>
+    </tr>
+     <tr>
+        <td> Jumlah</td>
+        <td> int(50)</td>
+        <td> Untuk menyimpan jumlah orang dalam project </td>
+    </tr>
+     <tr>
+        <td> Cost</td>
+        <td> int(50)</td>
+        <td> Untuk menyimpan harga sebuah project</td>
+    </tr>
+</table>
