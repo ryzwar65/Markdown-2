@@ -236,7 +236,8 @@ dapat mengolah sebuah aplikasi dengan penuh seperti meng edit, simpan, hapus dan
         <td> Untuk menyimpan harga sebuah project</td>
     </tr>
 </table>
-**4.** **Deskripsi Ketergatungan/Keterkaitan** <br>
+
+***4.*** ***Deskripsi Ketergatungan/Keterkaitan*** <br>
 **4.1** **Keterkaitan inter modul** <br>
 <ol>
     Ketika  merancang  sebuah  Dependensi  Inter-modul  sistem,  dapat  dirancang dengan dua cara yang luas dan cara pertama adalah untuk merancang sistem yang lengkap dengan menggunakan sistem yang ada diketahui dan mengimplementasikan fitur baru  yang diperlukan untuk meningkatkan efektivitas sistem dan mengujinya di kondisi nyata. Cara alternatif akan merancang sistem dan biasanya  karena  biaya  untuk  menyiapkan  antarmuka  antara  modul.  Modul  dari siaran  berita  Sistem  SCC  tergantung  pada  penyebaran  informasi.  Ini  antar-modul dari  penelitian  ini  adalah  tampilan  dari  pengumuman  dan  itu  termasuk  database sistem. Kemudian seluruh informasi yang telah dimasukkan akan disimpan dalam database,  yang  berasal  dari  proses  input  sampai  pengumuman  menampilkanke monitor lain.<br>
@@ -259,7 +260,6 @@ dapat mengolah sebuah aplikasi dengan penuh seperti meng edit, simpan, hapus dan
     <!DOCTYPE html>
 <html>
 <head>
-    <title></title>
 </head>
 <body>
     <img src="https://github.com/ryzwar65/Markdown-2/tree/master/Foto/gambar1.png" height="300px" width="500px;">
@@ -267,25 +267,72 @@ dapat mengolah sebuah aplikasi dengan penuh seperti meng edit, simpan, hapus dan
 </html>
 
     Antarmuka ini digunakan untuk melakukan proses login guna mendapatkan hak akses ke aplikasi. Untuk mendapat akses masuk ke dalam sistem, user harus menginputkan user name dan password dengan benar pada textbox  yang telah disediakan  .  kemudian  sistem  akan  mengecek  user  name  dan  password  yang dimasukkan dengan data user name dan password yang telah tersimpan di dalam sistem. Jika datauser name dan password cocok maka pengguna akan diberikan akses masuk ke dalam sistem, sebaliknya jika user name dan password salah atau tidak cocok maka akan ada pesan peringatan dari aplikasi.<br>
-    ![Form Menu](https://github.com/ryzwar65/Markdown-2/tree/master/Foto/gambar2.png)<br>
+    <!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+    <img src="https://github.com/ryzwar65/Markdown-2/tree/master/Foto/gambar2.png" height="300px" width="500px;">
+</body>
+</html>
 
     Antarmuka ini merupakan antarmuka utama yang berisi menu untuk masuk ke   antarmuka-antarmuka   yang   lain.   User   dapat   meilih   fungsionalitas-fungsionalitas  yang  ditawarkan  oleh  aplikasi.  Fungsionalitas yang  ditawarkan seperti pembuatan proyek, info karyawan, dan perhitungan cost.<br>
-    ![Form Pesan Produk](https://github.com/ryzwar65/Markdown-2/tree/master/Foto/gambar3.png)<br>
+    <!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+    <img src="https://github.com/ryzwar65/Markdown-2/tree/master/Foto/gambar3.png" height="300px" width="500px;">
+</body>
+</html>
 
-    Antarmuka ini digunakan untuk membuat proyek perhitungan yang di inginkan. Untuk membuat proyek user harus mengisi form yang telah disediakan, kemudian meng-click hitung. Dan kemudian user diharuskan meng-click save yang berada di pojok kanan atas. Secara otomatis proyek akan disimpan.<br>
-    ![Form Data Karyawan](https://github.com/ryzwar65/Markdown-2/tree/master/Foto/gambar4.png)<br>
+    Antarmuka ini digunakan untuk membuat proyek perhitungan yang di inginkan. Untuk membuat proyek user harus mengisi form yang telah disediakan, kemudian meng-click hitung. Dan kemudian user diharuskan meng-click save yang berada di pojok kanan atas. Secara otomatis proyek akan disimpan.<br><!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+    <img src="https://github.com/ryzwar65/Markdown-2/tree/master/Foto/gambar4.png" height="300px" width="500px;">
+</body>
+</html>
 
     Antarmuka  ini  digunakan  untuk  melihat  data  para  Karyawan,  caranya    adalah tinggal  memasukkan  ID  Karyawan  yang  ingin  dilihat.  Kemudian  secara  otomatis data akan keluar.<br>
-    ![Form Data Pesanan Produk](https://github.com/ryzwar65/Markdown-2/tree/master/Foto/gambar5.png)<br>
+    <!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+    <img src="https://github.com/ryzwar65/Markdown-2/tree/master/Foto/gambar5.png" height="300px" width="500px;">
+</body>
+</html>
 
     Antarmuka ini digunakan untuk melihat data dari keseluruhan transaksi pesanan proyek yang pernah ada.<br>
-    ![Form Data Laporan](https://github.com/ryzwar65/Markdown-2/tree/master/Foto/gambar6.png)<br>
+    <!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+    <img src="https://github.com/ryzwar65/Markdown-2/tree/master/Foto/gambar6.png" height="300px" width="500px;">
+</body>
+</html>
 
     Antarmuka ini digunakan untuk melihat data dari keseluruhan transaksi pesanan proyek yang pernah ada.<br>
-    ![Form Data Dokumen](https://github.com/ryzwar65/Markdown-2/tree/master/Foto/gambar7.png)<br>
+    <!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+    <img src="https://github.com/ryzwar65/Markdown-2/tree/master/Foto/gambar7.png" height="300px" width="500px;">
+</body>
+</html>
 
-    Antarmuka  ini  digunakan  untuk  melihat  dokumen-dokumen  yang  ditunjukan dalam pembangunan SimulasiManajemen Proyek RPL.<br>
-    ![Form Data Info](https://github.com/ryzwar65/Markdown-2/tree/master/Foto/gambar8.png)<br>
+    Antarmuka  ini  digunakan  untuk  melihat  dokumen-dokumen  yang  ditunjukan dalam pembangunan SimulasiManajemen Proyek RPL.<br><!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+    <img src="https://github.com/ryzwar65/Markdown-2/tree/master/Foto/gambar8.png" height="300px" width="500px;">
+</body>
+</html>
 
     Antarmuka  ini  digunakan  untuk  melihat  data  atau  informasi  dari  anggota kelompok tim 2proyek RPL.<br>
 </ol>
