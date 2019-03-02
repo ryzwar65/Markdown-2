@@ -257,7 +257,6 @@ dapat mengolah sebuah aplikasi dengan penuh seperti meng edit, simpan, hapus dan
 **5.1** **Deskripsi Antarmuka Pengguna** <br>
 <ol>
     Antarmuka  pengguna  (user  interface)  merupakan  bentuk  tampilan  grafis  yang berhubungan  langsung  dengan  pengguna  (user).  Antarmuka  pengguna  berfungsi untuk  menghubungkan  antar  pengguna  dengan  sistem,  sehingga  sistem  tersebut bisa digunakan.  Berikut merupakanrangcangan desain antarmuka pengguna proyek kami.<br>
-    <!DOCTYPE html>
 <html>
 <head>
 </head>
@@ -267,7 +266,6 @@ dapat mengolah sebuah aplikasi dengan penuh seperti meng edit, simpan, hapus dan
 </html>
 
     Antarmuka ini digunakan untuk melakukan proses login guna mendapatkan hak akses ke aplikasi. Untuk mendapat akses masuk ke dalam sistem, user harus menginputkan user name dan password dengan benar pada textbox  yang telah disediakan  .  kemudian  sistem  akan  mengecek  user  name  dan  password  yang dimasukkan dengan data user name dan password yang telah tersimpan di dalam sistem. Jika datauser name dan password cocok maka pengguna akan diberikan akses masuk ke dalam sistem, sebaliknya jika user name dan password salah atau tidak cocok maka akan ada pesan peringatan dari aplikasi.<br>
-    <!DOCTYPE html>
 <html>
 <head>
 </head>
@@ -277,7 +275,6 @@ dapat mengolah sebuah aplikasi dengan penuh seperti meng edit, simpan, hapus dan
 </html>
 
     Antarmuka ini merupakan antarmuka utama yang berisi menu untuk masuk ke   antarmuka-antarmuka   yang   lain.   User   dapat   meilih   fungsionalitas-fungsionalitas  yang  ditawarkan  oleh  aplikasi.  Fungsionalitas yang  ditawarkan seperti pembuatan proyek, info karyawan, dan perhitungan cost.<br>
-    <!DOCTYPE html>
 <html>
 <head>
 </head>
@@ -296,7 +293,6 @@ dapat mengolah sebuah aplikasi dengan penuh seperti meng edit, simpan, hapus dan
 </html>
 
     Antarmuka  ini  digunakan  untuk  melihat  data  para  Karyawan,  caranya    adalah tinggal  memasukkan  ID  Karyawan  yang  ingin  dilihat.  Kemudian  secara  otomatis data akan keluar.<br>
-    <!DOCTYPE html>
 <html>
 <head>
 </head>
@@ -306,7 +302,6 @@ dapat mengolah sebuah aplikasi dengan penuh seperti meng edit, simpan, hapus dan
 </html>
 
     Antarmuka ini digunakan untuk melihat data dari keseluruhan transaksi pesanan proyek yang pernah ada.<br>
-    <!DOCTYPE html>
 <html>
 <head>
 </head>
@@ -315,8 +310,7 @@ dapat mengolah sebuah aplikasi dengan penuh seperti meng edit, simpan, hapus dan
 </body>
 </html>
 
-    Antarmuka ini digunakan untuk melihat data dari keseluruhan transaksi pesanan proyek yang pernah ada.<br>
-    <!DOCTYPE html>
+    Antarmuka ini digunakan untuk melihat data dari keseluruhan transaksi pesanan proyek yang pernah ada. <br>
 <html>
 <head>
 </head>
