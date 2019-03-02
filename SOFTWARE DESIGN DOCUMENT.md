@@ -236,27 +236,35 @@ dapat mengolah sebuah aplikasi dengan penuh seperti meng edit, simpan, hapus dan
         <td> Untuk menyimpan harga sebuah project</td>
     </tr>
 </table>
-**4.** **Deskripsi Ketergatungan/Keterkaitan**
-**4.1** **Keterkaitan inter modul**
+**4.** **Deskripsi Ketergatungan/Keterkaitan** <br>
+**4.1** **Keterkaitan inter modul** <br>
 <ol>
     Ketika  merancang  sebuah  Dependensi  Inter-modul  sistem,  dapat  dirancang dengan dua cara yang luas dan cara pertama adalah untuk merancang sistem yang lengkap dengan menggunakan sistem yang ada diketahui dan mengimplementasikan fitur baru  yang diperlukan untuk meningkatkan efektivitas sistem dan mengujinya di kondisi nyata. Cara alternatif akan merancang sistem dan biasanya  karena  biaya  untuk  menyiapkan  antarmuka  antara  modul.  Modul  dari siaran  berita  Sistem  SCC  tergantung  pada  penyebaran  informasi.  Ini  antar-modul dari  penelitian  ini  adalah  tampilan  dari  pengumuman  dan  itu  termasuk  database sistem. Kemudian seluruh informasi yang telah dimasukkan akan disimpan dalam database,  yang  berasal  dari  proses  input  sampai  pengumuman  menampilkanke monitor lain.<br>
 </ol>
 
-**4.2** **Keterkaitan inter proses**
+**4.2** **Keterkaitan inter proses** <br>
 <ol>
     Proses  yang  dilakukan  oleh  pengguna  dalam  melakukan  pemesanan  proyek aplikasi akan mempengaruhi beberapa proses lainya seperti penentuan value, dan penjadwalan. Juga data akan tersimpan sebagai riwayat proses pemesanan.<br>
 </ol>
 
-**4.3** **Keterkaitan data**
+**4.3** **Keterkaitan data** <br>
 <ol>
     Dependensi  data  didasarkan  pada  pengguna.  Mereka  adalah  orang  yang  akan memverifikasi atau menyetujui pengumuman antri.<br>
 </ol>
 
-**5.** **Deskripsi Antar Muka**
-**5.1** **Deskripsi Antarmuka Pengguna**
+**5.** **Deskripsi Antar Muka** <br>
+**5.1** **Deskripsi Antarmuka Pengguna** <br>
 <ol>
     Antarmuka  pengguna  (user  interface)  merupakan  bentuk  tampilan  grafis  yang berhubungan  langsung  dengan  pengguna  (user).  Antarmuka  pengguna  berfungsi untuk  menghubungkan  antar  pengguna  dengan  sistem,  sehingga  sistem  tersebut bisa digunakan.  Berikut merupakanrangcangan desain antarmuka pengguna proyek kami.<br>
-    ![Form Awal](https://github.com/ryzwar65/Markdown-2/tree/master/Foto/gambar1.png)<br>
+    <!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <img src="https://github.com/ryzwar65/Markdown-2/tree/master/Foto/gambar1.png" height="300px" width="500px;">
+</body>
+</html>
 
     Antarmuka ini digunakan untuk melakukan proses login guna mendapatkan hak akses ke aplikasi. Untuk mendapat akses masuk ke dalam sistem, user harus menginputkan user name dan password dengan benar pada textbox  yang telah disediakan  .  kemudian  sistem  akan  mengecek  user  name  dan  password  yang dimasukkan dengan data user name dan password yang telah tersimpan di dalam sistem. Jika datauser name dan password cocok maka pengguna akan diberikan akses masuk ke dalam sistem, sebaliknya jika user name dan password salah atau tidak cocok maka akan ada pesan peringatan dari aplikasi.<br>
     ![Form Menu](https://github.com/ryzwar65/Markdown-2/tree/master/Foto/gambar2.png)<br>
