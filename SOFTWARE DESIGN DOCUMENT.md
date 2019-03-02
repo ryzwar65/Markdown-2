@@ -261,7 +261,7 @@ dapat mengolah sebuah aplikasi dengan penuh seperti meng edit, simpan, hapus dan
 <head>
 </head>
 <body>
-    <img src="https://github.com/ryzwar65/Markdown-2/tree/master/Foto/gambar1.png" height="300px" width="500px;">
+    <img src="Foto/gambar1.png" height="300px" width="500px;">
 </body>
 </html>
 
@@ -270,7 +270,7 @@ dapat mengolah sebuah aplikasi dengan penuh seperti meng edit, simpan, hapus dan
 <head>
 </head>
 <body>
-    <img src="https://github.com/ryzwar65/Markdown-2/tree/master/Foto/gambar2.png" height="300px" width="500px;">
+    <img src="Foto/gambar2.png" height="300px" width="500px;">
 </body>
 </html>
 
@@ -279,7 +279,7 @@ dapat mengolah sebuah aplikasi dengan penuh seperti meng edit, simpan, hapus dan
 <head>
 </head>
 <body>
-    <img src="https://github.com/ryzwar65/Markdown-2/tree/master/Foto/gambar3.png" height="300px" width="500px;">
+    <img src="Foto/gambar3.png" height="300px" width="500px;">
 </body>
 </html>
 
@@ -288,7 +288,7 @@ dapat mengolah sebuah aplikasi dengan penuh seperti meng edit, simpan, hapus dan
 <head>
 </head>
 <body>
-    <img src="https://github.com/ryzwar65/Markdown-2/tree/master/Foto/gambar4.png" height="300px" width="500px;">
+    <img src="Foto/gambar4.png" height="300px" width="500px;">
 </body>
 </html>
 
@@ -297,7 +297,7 @@ dapat mengolah sebuah aplikasi dengan penuh seperti meng edit, simpan, hapus dan
 <head>
 </head>
 <body>
-    <img src="https://github.com/ryzwar65/Markdown-2/tree/master/Foto/gambar5.png" height="300px" width="500px;">
+    <img src="Foto/gambar5.png" height="300px" width="500px;">
 </body>
 </html>
 
@@ -306,7 +306,7 @@ dapat mengolah sebuah aplikasi dengan penuh seperti meng edit, simpan, hapus dan
 <head>
 </head>
 <body>
-    <img src="https://github.com/ryzwar65/Markdown-2/tree/master/Foto/gambar6.png" height="300px" width="500px;">
+    <img src="Foto/gambar6.png" height="300px" width="500px;">
 </body>
 </html>
 
@@ -315,7 +315,7 @@ dapat mengolah sebuah aplikasi dengan penuh seperti meng edit, simpan, hapus dan
 <head>
 </head>
 <body>
-    <img src="https://github.com/ryzwar65/Markdown-2/tree/master/Foto/gambar7.png" height="300px" width="500px;">
+    <img src="Foto/gambar7.png" height="300px" width="500px;">
 </body>
 </html>
 
@@ -324,7 +324,7 @@ dapat mengolah sebuah aplikasi dengan penuh seperti meng edit, simpan, hapus dan
 <head>
 </head>
 <body>
-    <img src="https://github.com/ryzwar65/Markdown-2/tree/master/Foto/gambar8.png" height="300px" width="500px;">
+    <img src="Foto/gambar8.png" height="300px" width="500px;">
 </body>
 </html>
 
